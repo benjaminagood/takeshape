@@ -12,6 +12,7 @@ collections:
     folder: "one"
     create: true # Allow users to create new documents in this collection
     fields: 
+      - { label: "Title", name: "title", widget: "string" }      
       - { label: "PDF", name: "pdf", widget: "file" }
  
   - name: "two"
