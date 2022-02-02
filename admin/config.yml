@@ -7,6 +7,16 @@ public_folder: "/assets/images/uploads"
 
 collections:
 
+  - name: "one"
+    label: "One"
+    folder: "one"
+    create: false 
+
+  - name: "two"
+    label: "Two"
+    folder: "two"
+    create: false 
+
   - name: "three"
     label: "Three"
     folder: "three"
