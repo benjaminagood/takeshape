@@ -6,13 +6,6 @@ media_folder: "_site/assets/images/uploads"
 public_folder: "/assets/images/uploads"
 
 collections:
-  - name: "index"
-    label: "Index"
-    fields: 
-      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/base.njk" }
-      - { label: "Featured Image", name: "featuredImage", widget: "image" }
-      - { label: "Featured Alt Text", name: "featuredAltText", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
   - name: "one"
     label: "One"
     folder: "one"
