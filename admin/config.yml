@@ -38,7 +38,8 @@ collections:
     slug: "{{title}}"
     fields: 
       - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/three-article.njk" }
-      - { label: "Section", name: "section", widget: "select", options: ["public domain", "peer-to-peer", "incognito mode", "custom avatar", "digital debris", "services rendered"] }
+      # - { label: "Section", name: "section", widget: "select", options: ["public domain", "peer-to-peer", "incognito mode", "custom avatar", "digital debris", "services rendered"] }
+      - { label: "Section", name: "section", widget: "number", value_type: "int", min: 1, max: 6 }     
       - { label: "Featured Image", name: "featuredImage", widget: "image" }
       - { label: "Featured Alt Text", name: "featuredAltText", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
