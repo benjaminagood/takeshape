@@ -1,5 +1,5 @@
-{% include head.njk %}
+{% include "head.njk" %}
 <body>
-
+ {{content | safe}}
 </body>
-{% include footer.njk %}
+{% include "footer.njk" %}
