@@ -1,7 +1,10 @@
 {% include "head.njk" %}
-<body>
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/three-article.css">
+</head>
+<body class="three-article">
     <h2>{{ title }}</h2>
     <img src="{{ featuredImage | url }}" alt="{{ featuredImage }}">
-
+    {{content | safe}}
 </body>
 {% include "footer.njk" %}
