@@ -10,8 +10,9 @@ collections:
   - name: "one"
     label: "One"
     folder: "one"
+    create: true # Allow users to create new documents in this collection
     fields: 
-      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/one-article.njk" }
+      # - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/base.njk" }
       - { label: "Featured Image", name: "featuredImage", widget: "image" }
       - { label: "Featured Alt Text", name: "featuredAltText", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
@@ -23,7 +24,7 @@ collections:
     label: "Two"
     folder: "two"
     fields: 
-      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/three-article.njk" }
+      # - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/base.njk" }
       - { label: "Featured Image", name: "featuredImage", widget: "image" }
       - { label: "Featured Alt Text", name: "featuredAltText", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
