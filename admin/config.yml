@@ -7,6 +7,15 @@ public_folder: "/assets/images/uploads"
 
 collections:
  
+  - name: "one"
+    label: "One"
+    folder: "one"
+    create: true # Allow users to create new documents in this collection
+    slug: 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }      
+      - { label: "PDF", name: "pdf", widget: "file" }
+ 
   - name: "two"
     label: "Two"
     folder: "two"
