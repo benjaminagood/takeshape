@@ -1,6 +1,6 @@
 ---
 layout: layouts/three-article.njk
-section: public domain
+section: 3
 featuredImage: /assets/images/uploads/image1.png
 featuredAltText: aaaaa
 title: Test3
