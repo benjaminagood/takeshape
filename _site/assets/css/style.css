@@ -48,3 +48,39 @@
   .base {
     height: 100vh;
   }
+
+
+
+
+
+
+  /* index */
+  #issue-bttns {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-auto-flow: column;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+  #issue-bttns a {
+    height: 50vh;
+    width: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #one-bttn {
+    background-image: url("../../assets/images/uploads/one.svg");
+  }
+  #two-bttn {
+    background-image: url("../../assets/images/uploads/two.svg");
+  }
+  #three-bttn {
+    background-image: url("../../assets/images/uploads/three.svg");
+  }
+  #four-bttn {
+    background-image: url("../../assets/images/uploads/four.svg");
+  }
