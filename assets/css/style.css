@@ -25,6 +25,7 @@
   :root {
     --white: #ffffff;
     --black: #000000;
+    --grey: #656970;
 
     --one-brown: #bb9b66;
     --one-pink: #f8ebf2;
@@ -32,6 +33,15 @@
 
     --two-pink: #f69178;
     --two-blue: #0291d7;
+
+    --three-green-one: #19975D;
+    --three-green-two: #62b186;
+    --three-green-three: #98ccaf;
+    --three-green-four: #cce4d4;
+    --three-purple-one: #ccd4ec;
+    --three-purple-two: #94acd4;
+    --three-purple-three: #5c84bc;
+    --three-blue-one: #235BA8;
 
   }
   * {
@@ -46,41 +56,53 @@
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   }
   .base {
+    position: relative;
     height: 100vh;
   }
 
+/* footer */
+footer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+#footer-bttn {
+  width: 20px;
+  height: 20px;
+  background-color: var(--grey);
+}
 
 
 
-
-
-  /* index */
-  #issue-bttns {
-    height: 100vh;
-    width: 100%;
-    display: grid;
-    justify-content: center;
-    align-content: center;
-    grid-auto-flow: column;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-  }
-  #issue-bttns a {
-    height: 50vh;
-    width: auto;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #one-bttn {
-    background-image: url("../../assets/images/uploads/one.svg");
-  }
-  #two-bttn {
-    background-image: url("../../assets/images/uploads/two.svg");
-  }
-  #three-bttn {
-    background-image: url("../../assets/images/uploads/three.svg");
-  }
-  #four-bttn {
-    background-image: url("../../assets/images/uploads/four.svg");
-  }
+/* index */
+#issue-bttns {
+  height: 100vh;
+  width: 100%;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  grid-auto-flow: column;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+#issue-bttns a {
+  height: 100%;
+  width: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#one-bttn {
+  background-image: url("../../assets/images/uploads/one.svg");
+}
+#two-bttn {
+  background-image: url("../../assets/images/uploads/two.svg");
+}
+#three-bttn {
+  background-image: url("../../assets/images/uploads/three.svg");
+}
+#four-bttn {
+  background-image: url("../../assets/images/uploads/four.svg");
+}
