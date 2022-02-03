@@ -3,42 +3,67 @@
 <link rel="stylesheet" href="../../assets/css/three.css">
 </head>
 <body class="three">
-<h1>NO. 3, CYBERSPACE</h1>
-<h1>Section 1</h1>
-<ul>
-    {%- for articles in collections.three -%}
-    {% if articles.data.section == 1 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
-    {%- endfor -%}
-</ul>
-<h1>Section 2</h1>
-<ul>
-    {%- for articles in collections.three -%}
-    {% if articles.data.section == 2 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
-    {%- endfor -%}
-</ul>
-<h1>Section 3</h1>
-<ul>
-    {%- for articles in collections.three -%}
-    {% if articles.data.section == 3 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
-    {%- endfor -%}
-</ul>
-<h1>Section 4</h1>
-<ul>
-    {%- for articles in collections.three -%}
-    {% if articles.data.section == 4 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
-    {%- endfor -%}
-</ul>
-<h1>Section 5</h1>
-<ul>
-    {%- for articles in collections.three -%}
-    {% if articles.data.section == 5 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
-    {%- endfor -%}
-</ul>
-<h1>Section 6</h1>
-<ul>
-    {%- for articles in collections.three -%}
-    {% if articles.data.section == 6 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
-    {%- endfor -%}
-</ul>
+<section>
+    <h1>NO. 3, CYBERSPACE</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 1 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+    
+<section>
+    <h1>PUBLIC DOMAIN</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 2 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section>
+    <h1>PEER-TO-PEER</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 3 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section>
+    <h1>INCOGNITO MODE</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 4 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section>
+    <h1>CUSTOM AVATAR</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 5 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section>
+    <h1>DIGITAL DEBRIS</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 6 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section>
+    <h1>SERVICES RENDERED</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 7 %}<li><a href="{{ articles.url | url }}">{{ articles.data.title }}<br>{{ articles.data.author }}</a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
 </body>
 {% include "footer.njk" %}
