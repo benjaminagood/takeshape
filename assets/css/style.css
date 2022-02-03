@@ -25,6 +25,14 @@
   :root {
     --white: #ffffff;
     --black: #000000;
+
+    --one-brown: #bb9b66;
+    --one-pink: #f8ebf2;
+    --one-beige: #f6eee2;
+
+    --two-pink: #f69178;
+    --two-blue: #0291d7;
+
   }
   * {
     margin: 0;
@@ -36,4 +44,7 @@
     scroll-behavior: smooth;
     font-size: 100%;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  .base {
+    height: 100vh;
   }
