@@ -8,3 +8,5 @@ title: Editor's Note
 author: Issue Three
 ---
 akjhkjhjhkj
+
+![](/assets/images/uploads/four.svg)
