@@ -11,7 +11,7 @@
     <figcaption>{% if featuredFigCaption | length %}{{ featuredFigCaption }}{% endif %}</figcaption>
     </figure>
 
-    {% if body | length %}{{ body | markdown | safe }}{% endif %}
-
+    {# {% if body | length %}{{ body | safe }}{% endif %} #}
+    {{ content | safe }}
     </article>
 {% include "footer.njk" %}

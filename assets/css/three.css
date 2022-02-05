@@ -55,6 +55,7 @@
 /* ARTICLES */
 article {
   position: relative;
+  overflow-y: scroll;
 }
 .article-header {
   position: static;
