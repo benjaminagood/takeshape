@@ -31,10 +31,10 @@ collections:
     fields: 
       - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/three-article.njk" }
       - { label: "Section", name: "section", widget: "number", value_type: "int", min: 1, max: 7 }     
-      - { label: "Featured Image", name: "featuredImage", widget: "image" }
-      - { label: "Featured Alt Text", name: "featuredAltText", widget: "string" }
-      - { label: "Featured Figure Caption", name: "featuredFigCaption", widget: "string" }
+      - { label: "Featured Image", name: "featuredImage", widget: "image", required: false }
+      - { label: "Featured Alt Text", name: "featuredAltText", widget: "string", required: false}
+      - { label: "Featured Figure Caption", name: "featuredFigCaption", widget: "string", required: false }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Author", name: "author", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
