@@ -50,3 +50,13 @@
 }
 
 
+
+
+/* ARTICLES */
+article {
+  position: relative;
+}
+.article-header {
+  position: static;
+}
+
