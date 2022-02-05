@@ -2,5 +2,6 @@
 <link rel="stylesheet" href="../../assets/css/style.css">
 </head>
 <body class="base">
-{{content | safe}}
+{% include "header.njk" %}
+{{ content | safe }}
 {% include "footer.njk" %}

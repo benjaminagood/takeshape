@@ -3,7 +3,8 @@
 <link rel="stylesheet" href="../../assets/css/three.css">
 </head>
 <body class="three-article">
-    <article>
+    {% include "header.njk" %}
+    <article id="{{ author }}">
     <header><h1>{{ title }}</h1><h2>{{ author }}</h2></header>
     <figure>
     <img src="{{ featuredImage | url }}" alt="{{ featuredImage }}">
@@ -13,5 +14,4 @@
     {{content | safe}}
 
     </article>
-</body>
 {% include "footer.njk" %}
