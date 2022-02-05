@@ -1,6 +1,7 @@
 ---
 layout: layouts/three-article.njk
 section: 1
+order: 2
 featuredImage: ""
 featuredAltText: ""
 title: Contributors
