@@ -11,22 +11,7 @@
     <figcaption>{% if featuredFigCaption | length %}{{ featuredFigCaption }}{% endif %}</figcaption>
     </figure>
 
-    {{ content | safe }}
+    {% if body | length %}{{ body | markdown | safe }}{% endif %}
 
     </article>
 {% include "footer.njk" %}
-
-
-
-{# <body class="three-article">
-    {% include "header.njk" %}
-    <article id="{{ author }}">
-    <header><h1>{{ title }}</h1><h2>{{ author }}</h2></header>
-    <figure>
-    <img src="{% if featuredImage | length %}{{ featuredImage | url }}{% endif %}" alt="{% if featuredAltText | length %}{{ featuredAltText }}{% endif %}">
-    <figcaption>{% if featuredFigCaption | length %}{{ featuredFigCaption }}{% endif %}</figcaption>
-    </figure>
-    
-    {{ body | markdown | safe }}
-    </article>
-{% include "footer.njk" %} #}
