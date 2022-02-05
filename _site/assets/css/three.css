@@ -4,17 +4,22 @@
 .three main section {
   min-height: 100vh;
 }
+.three main ul {
+  display: flex;
+}
 .three main li {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 75vh;
+  width: clamp(50%, 50%, 100%); 
+  height: clamp(50vh, 65vh, 75vh); 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-#section-one li { background-color: var(--three-green-one); }
 #section-one h1 { color: var(--three-green-one); }
+#section-one li:nth-of-type(1) { background-color: var(--three-green-one); }
+#section-one li:nth-of-type(2) { background-color: var(--three-blue-one); }
 #section-two li { background-color: var(--three-green-two); }
 #section-two h1 { color: var(--three-green-two); }
 #section-three li { background-color: var(--three-green-three); }
@@ -36,6 +41,7 @@
 .three main h1 {
   text-align: center;
   font-size: var(--big);
+  font-size: clamp(var(--medium), 10vw, var(--big)); 
   font-weight: var(--light);
 }
 .three main h2 {
@@ -61,7 +67,7 @@ article {
   "c c c";
   position: relative;
   overflow-y: scroll;
-  z-index: 0;
+  z-index: -1;
 }
 .article-header {
   position: static;
@@ -83,7 +89,9 @@ article {
 }
 .content {
   grid-area: c;
-  padding: 8rem;
+  /* padding: 8rem; */
+  padding: clamp(6rem, 8rem, 10rem); 
+
 }
 .content p {
   margin: 0 0 1.5rem;
@@ -102,6 +110,10 @@ article {
 }
 [id="Issue Three"] strong {
   color: var(--three-blue-one);
+}
+[id="Issue Three"] .content p:first-child::first-letter {
+  font-size: var(--medium);
+  vertical-align: sub;
 }
 [id="Issue Three"] .content p:nth-last-child(5) {
   margin-top: 3rem;
@@ -128,4 +140,51 @@ article {
   padding-top: 0.5rem;
   border-top: 4px solid var(--three-green-two);
   color: var(--three-green-two);
+}
+
+[id="Contributors"] {
+
+}
+[id="Contributors"] .article-header h2 {
+  display: none;
+}
+[id="Contributors"] .content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+}
+[id="Contributors"] .content p {
+  padding-top: 0.5rem;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+[id="Contributors"] p:nth-of-type(2), [id="Contributors"] p:nth-of-type(21) {
+  border-top: 4px solid var(--black);
+}
+[id="Contributors"] p:nth-of-type(13), [id="Contributors"] p:nth-of-type(17) {
+  border-top: 4px solid var(--three-green-two);
+}
+[id="Contributors"] p:nth-of-type(8), [id="Contributors"] p:nth-of-type(9), [id="Contributors"] p:nth-of-type(22) {
+  border-top: 4px solid var(--three-green-three);
+}
+[id="Contributors"] p:nth-of-type(3), [id="Contributors"] p:nth-of-type(5) {
+  border-top: 4px solid var(--three-green-four);
+}
+[id="Contributors"] p:nth-of-type(1), [id="Contributors"] p:nth-of-type(4), [id="Contributors"] p:nth-of-type(15) {
+  border-top: 4px solid var(--three-purple-one);
+}
+[id="Contributors"] p:nth-of-type(6), [id="Contributors"] p:nth-of-type(11), [id="Contributors"] p:nth-of-type(12), [id="Contributors"] p:nth-of-type(19) {
+  border-top: 4px solid var(--three-purple-two);
+}
+[id="Contributors"] p:nth-of-type(7), [id="Contributors"] p:nth-of-type(14), [id="Contributors"] p:nth-of-type(18) {
+  border-top: 4px solid var(--three-purple-three);
+}
+[id="Contributors"] p:nth-of-type(10), [id="Contributors"] p:nth-of-type(16), [id="Contributors"] p:nth-of-type(20) {
+  border-top: 4px solid var(--three-blue-one);
+}
+[id="Contributors"] .content a {
+  display: block;
+  padding-top: 0.5rem;
+  text-decoration: none;
+  color: var(--grey);
+  cursor: pointer;
 }

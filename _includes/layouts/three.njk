@@ -8,7 +8,7 @@
     <h1>NO. 3, CYBERSPACE</h1>
     <ul>
         {%- for articles in collections.three | reverse -%}
-        {% if articles.data.section == 1 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><br></a></li>{% endif %}
+        {% if articles.data.section == 1 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2></a></li>{% endif %}
         {%- endfor -%}
     </ul>
 </section>
@@ -17,7 +17,7 @@
     <h1>PUBLIC DOMAIN</h1>
     <ul>
         {%- for articles in collections.three -%}
-        {% if articles.data.section == 2 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><br><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {% if articles.data.section == 2 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
         {%- endfor -%}
     </ul>
 </section>
@@ -26,7 +26,7 @@
     <h1>PEER-TO-PEER</h1>
     <ul>
         {%- for articles in collections.three -%}
-        {% if articles.data.section == 3 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><br><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {% if articles.data.section == 3 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
         {%- endfor -%}
     </ul>
 </section>
@@ -35,7 +35,7 @@
     <h1>INCOGNITO MODE</h1>
     <ul>
         {%- for articles in collections.three -%}
-        {% if articles.data.section == 4 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><br><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {% if articles.data.section == 4 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
         {%- endfor -%}
     </ul>
 </section>
@@ -44,7 +44,7 @@
     <h1>CUSTOM AVATAR</h1>
     <ul>
         {%- for articles in collections.three -%}
-        {% if articles.data.section == 5 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><br><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {% if articles.data.section == 5 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
         {%- endfor -%}
     </ul>
 </section>
@@ -53,7 +53,7 @@
     <h1>DIGITAL DEBRIS</h1>
     <ul>
         {%- for articles in collections.three -%}
-        {% if articles.data.section == 6 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><br><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {% if articles.data.section == 6 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
         {%- endfor -%}
     </ul>
 </section>
@@ -62,7 +62,7 @@
     <h1>SERVICES RENDERED</h1>
     <ul>
         {%- for articles in collections.three -%}
-        {% if articles.data.section == 7 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><br><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {% if articles.data.section == 7 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
         {%- endfor -%}
     </ul>
 </section>

@@ -69,6 +69,7 @@
   }
   main {
     height: 100vh;
+    z-index: 0;
   }
 
 /* footer */
@@ -178,8 +179,8 @@ header {
   padding: 0 1rem;
 }
 #issue-bttns {
-  margin: 25vh auto;
-  height: 50vh;
+  margin: 0 auto;
+  height: 100vh;
   width: 100%;
   display: grid;
   justify-content: center;
@@ -187,7 +188,6 @@ header {
   /* grid-template-columns: 331px 371px 493px 493px; */
   grid-template-columns: 331fr 371fr 493fr 493fr;
   /* grid-template-columns: 1fr 1fr 1fr 1fr; */
-
   grid-template-rows: 1fr;
 }
 #issue-bttns a {
