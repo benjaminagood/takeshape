@@ -7,11 +7,9 @@
     <article id="{{ author }}">
     <header><h1>{{ title }}</h1><h2>{{ author }}</h2></header>
     <figure>
-    <img src="{{ featuredImage | url }}" alt="{{ featuredImage }}">
-    <figcaption>{{ featuredFigCaption }}</figcaption>
+    <img src="{% if featuredImage | length %}{{ featuredImage | url }}{% endif %}" alt="{% if featuredAltText | length %}{{ featuredAltText }}{% endif %}">
+    <figcaption>{% if featuredFigCaption | length %}{{ featuredFigCaption }}{% endif %}</figcaption>
     </figure>
-
-    {{content | safe}}
-
+    {{ body | markdown | safe }}
     </article>
 {% include "footer.njk" %}
