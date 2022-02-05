@@ -7,7 +7,7 @@
 <section id="section-one">
     <h1>NO. 3, CYBERSPACE</h1>
     <ul>
-        {%- for articles in collections.three -%}
+        {%- for articles in collections.three | reverse -%}
         {% if articles.data.section == 1 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><br></a></li>{% endif %}
         {%- endfor -%}
     </ul>
