@@ -4,14 +4,12 @@ section: 2
 order: 2
 featuredImage: /assets/images/uploads/johnson1.jpg
 featuredAltText: black line drawing of a column with beacons emitting lines in all directions
-featuredFigCaption: Drawings by Benjamin Good
+featuredFigCaption: Park Beacon with both Omnitik (local access to network) and
+  Litebeam (uplink) routers.
 title: "Guerilla Hotspot: Internet and the Occupation of New York City Hall"
 author: Rob Johnson
+description: Drawings by Benjamin Good
 ---
-Park Beacon with both Omnitik (local access to network) and Litebeam (uplink) routers.
-
-Drawings by Benjamin Good
-
 In late June a group of activists took up residence at New York’s City Hall Park. In the following days their numbers grew into the hundreds, and their demonstration attracted national attention. I joined the encampment on the second day and ended up staying for eight more. After protesting daily for nearly a month, I was excited to see an escalation of tactics and a specific, time-sensitive demand: to defund the NYPD by at least $1 billion in the city’s upcoming budget. Ultimately, our demands were answered in name only, but the reverberations of the broader movement will no doubt have impacts for years to come.
 
 One of the stated goals of the City Hall protest was to draw a connection between the overpolicing of homeless New Yorkers and the broader racial justice movement. The protest was led by Vocal-NY, a nonprofit focused specifically on this intersection. Much of the language and action at City Hall centered around serving and celebrating everyone in the space. Food, shelter, and community were available to all, from housed New Yorkers passing through, to unhoused residents already living in the area. In addition to providing general support, I arrived at the space with the goal of adding internet access as a shared resource for the encampment. As a volunteer organizer with the nonprofit NYC Mesh, I have been building a community-owned, community-operated network in the city for several years. NYC Mesh’s focus on democratized internet infrastructure shares much with the broader movement’s emphasis on mutual aid and collectively rethinking public services through a racial justice and restorative justice lens.
