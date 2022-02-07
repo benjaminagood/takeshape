@@ -38,7 +38,8 @@ The network is primarily concentrated in residential neighborhoods within Lower 
 
 The fact that this hub of internet infrastructure is located in close proximity to New York’s center of government power isn’t a grand conspiracy, but it isn’t an accident either. The City Hall area has been New York’s locus of government and technology for centuries. Thomas Edison’s first electrical distribution network was laid just to the southeast, and the Brooklyn Bridge touches down across the street. The now-abandoned City Hall station of New York’s first subway line sits directly beneath City Hall Park. Government and commercial interests have crucial phone and internet infrastructure located near them. Geographically concentrated technological infrastructure has been a powerful, if subtle, force.
 
-![black line drawing of a beacon on a pole with a wire running down and sitting on the roof, clouds in the background](/assets/images/uploads/johnson3.jpg)###### Omnitik router on the roof of a building in the NYC Mesh network.
+![black line drawing of a beacon on a pole with a wire running down and sitting on the roof, clouds in the background](/assets/images/uploads/johnson3.jpg)
+###### Omnitik router on the roof of a building in the NYC Mesh network.
 
 
 Omnitik router on the roof of a building in the NYC Mesh network.
