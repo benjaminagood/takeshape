@@ -72,6 +72,9 @@
     height: 100vh;
     z-index: 0;
   }
+  a {
+    text-underline-position: under;
+  }
 
 /* footer */
 header {
