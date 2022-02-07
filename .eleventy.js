@@ -11,6 +11,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets/css");
     eleventyConfig.addWatchTarget("assets/css");
     eleventyConfig.addPassthroughCopy("assets/scripts");
+    eleventyConfig.addPassthroughCopy("favicon");
     eleventyConfig.addFilter("markdown", (content) => {
       return md.render(content);
     });

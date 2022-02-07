@@ -137,6 +137,11 @@ article {
   font-style: italic;
   text-align: center;
 }
+.content hr {
+  margin: 6rem auto;
+  width: 200px;
+  border: 4px solid;
+}
 
 /* By Section */
 .section-1 {
