@@ -4,7 +4,7 @@
 </head>
 <body class="three-article">
     {% include "header.njk" %}
-    <article id="{{ author }}">
+    <article id="{{ author }}" class="section-{{ section }}">
     <header class="article-header"><h1>{{ title }}</h1><h2>{{ author }}</h2></header>
     <figure class="featured">
     {% if featuredImage | length %}<img src="{{ featuredImage | url }}" alt="{% if featuredAltText | length %}{{ featuredAltText }}{% endif %}">{% endif %}
