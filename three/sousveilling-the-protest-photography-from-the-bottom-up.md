@@ -2,6 +2,8 @@
 layout: layouts/three-article.njk
 section: 4
 order: 1
+featuredImage: /assets/images/uploads/bhaumik-1.png
+featuredAltText: grey-greenish collage of mesh and ropes
 title: "Sousveilling the Protest: Photography from the Bottom-Up"
 author: Sanoja Bhaumik
 description: Collagraphs by Sam Vernon
@@ -38,7 +40,7 @@ Are there alternative visions of protest situated in the present? Or must we giv
 
 Photojournalism showing protests can be reactive, even in attempts to dispel mythologies of violent protesters and riots. Even when protesters are shown engaging in “peaceful” activities, photojournalists fall into the trap of capturing innocence. They enter the dialogue in a defensive posture. Photographs of New York’s protests in June [published in the _New York Times_](https://www.nytimes.com/2020/06/05/nyregion/police-kettling-protests-nyc.html/), for example, show multiple cases of protesters kneeling with their hands up, defending themselves from police officers using aggressive tactics like kettling. These images of righteous behavior, nonetheless met by brutal assault, can be contrasted with [images](https://nypost.com/2020/06/01/nyc-looters-clash-with-protesters-as-another-night-of-chaos-erupts/) of “violent looting” and “illegal behavior” in the same city during the same wave of protests.
 
-![scanned and digitally manipulated image of threads, textiles, and mesh.](content/issuethree/bhaumik/sanoja_2.png)
+![grey-greenish collage of mesh and ropes](/assets/images/uploads/bhaumik-2.png)
 
 Surveillance scholar Torin Monahan attempts to describe surveillance art by asking:
 
