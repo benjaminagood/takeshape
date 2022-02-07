@@ -25,6 +25,8 @@ While functioning public Wi-Fi may not seem as important as functioning public s
 Even the current model of private internet provision has trended heavily toward censorship and surveillance. Cellular companies routinely sell customer location data, and the repeal of net neutrality laws in late 2017 has already had measurable effects on the quality of video-streaming service from Netflix, Skype, and YouTube. The Black Lives Matter movement has been fueled by videos of police violence that have spread quickly across the globe on social media platforms. Livestreaming is crucial to this phenomenon—law enforcement often seizes phones from those arrested, making after-the-fact video evidence a risky proposition. Many of the protests themselves have been coordinated through social media too. Thus far social media companies have allowed the movement to flourish online, but there’s little stopping them from restricting this content in the future, or simply prioritizing other traffic.
 
 ![black line drawing of a window with beacons and wires on the window-sill](/assets/images/uploads/johnson2.jpeg)
+###### Sector antenna and inward-facing Omnitik router on the windowsill of Borough President Gale Brewer's office, connecting the Park Beacon to the larger network.
+
 
 Sector antenna and inward-facing Omnitik router on the windowsill of Borough President Gale Brewer's office, connecting the Park Beacon to the larger network.
 
@@ -37,6 +39,8 @@ The network is primarily concentrated in residential neighborhoods within Lower 
 The fact that this hub of internet infrastructure is located in close proximity to New York’s center of government power isn’t a grand conspiracy, but it isn’t an accident either. The City Hall area has been New York’s locus of government and technology for centuries. Thomas Edison’s first electrical distribution network was laid just to the southeast, and the Brooklyn Bridge touches down across the street. The now-abandoned City Hall station of New York’s first subway line sits directly beneath City Hall Park. Government and commercial interests have crucial phone and internet infrastructure located near them. Geographically concentrated technological infrastructure has been a powerful, if subtle, force.
 
 ![black line drawing of a beacon on a pole with a wire running down and sitting on the roof, clouds in the background](/assets/images/uploads/johnson3.jpg)
+###### Omnitik router on the roof of a building in the NYC Mesh network.
+
 
 Omnitik router on the roof of a building in the NYC Mesh network.
 
