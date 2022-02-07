@@ -12,5 +12,6 @@ Our digital and political systems are complexly intertwined, and the physical â€
 <object type="application/pdf"
     data="/assets/images/uploads/penarroyo.pdf"
     width="100%"
-    height="100%">
+    height="800px"
+    border="8px solid var(--three-green-two)">
 </object>
