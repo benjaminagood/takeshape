@@ -3,6 +3,7 @@ layout: layouts/three-article.njk
 section: 4
 order: 3
 featuredImage: /assets/images/uploads/lloyd1.svg
+featuredAltText: jumbled black lines in an abstract composition
 title: "Missing the Bus: Transit Tracking Under Austerity"
 author: Annie Lloyd
 description: Illustrations by Shireen Alia Ahmed
