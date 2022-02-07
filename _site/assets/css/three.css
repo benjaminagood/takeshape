@@ -104,6 +104,9 @@ article {
 }
 .section-2 {
 }
+.section-2 .article-header {
+  color: var(--three-green-two);
+}
 .section-3 {
 }
 .section-4 {
