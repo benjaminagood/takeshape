@@ -5,11 +5,12 @@
 <body class="three-article">
     {% include "header.njk" %}
     <article id="{{ author }}" class="section-{{ section }}">
-    <header class="article-header"><h1>{{ title }}</h1><h2>{{ author }}</h2></header>
+    <header class="article-header"><h1>{{ title }}</h1><h2>{{ author }}</h2>{% if description | length %}<h3 class="description">{{ description }}</h3>{% endif %}</header>
     <figure class="featured">
     {% if featuredImage | length %}<img src="{{ featuredImage | url }}" alt="{% if featuredAltText | length %}{{ featuredAltText }}{% endif %}">{% endif %}
     <figcaption>{% if featuredFigCaption | length %}{{ featuredFigCaption }}{% endif %}</figcaption>
     </figure>
+
     <section class="content">
     {{ content | safe }}
     </section>

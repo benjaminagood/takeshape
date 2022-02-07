@@ -11,6 +11,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 1rem;
   width: clamp(50%, 50%, 100%); 
   height: clamp(50vh, 65vh, 75vh); 
   background-position: center;
@@ -70,9 +71,9 @@ article {
   z-index: -1;
 }
 .article-header {
+  grid-area: a;
   position: static;
   padding: 1rem 0;
-  grid-area: a;
 }
 .article-header h1 {
   font-size: var(--medium);
@@ -80,13 +81,28 @@ article {
   text-align: center;
 }
 .article-header h2 {
+  margin-top: 1rem;
   font-size: var(--medium-small);
+  font-weight: var(--light);
+  text-align: center;
+}
+.description {
+  margin-top: 2rem;
+  font-size: var(--small);
   font-weight: var(--light);
   text-align: center;
 }
 .featured {
   grid-area: b;
+  padding-top: 2rem;
 }
+.featured figcaption {
+  margin: 0 auto;
+  max-width: 300px;
+  text-align: center;
+  font-style: italic;
+}
+
 .content {
   grid-area: c;
   /* padding: 8rem; */
@@ -97,6 +113,20 @@ article {
   margin: 0 0 1.5rem;
   font-size: var(--small);
   font-family: "TiemposText-Regular", serif;  
+}
+.featured img, .content img {
+  margin: 0 auto;
+  width: clamp(60%, 100%, 100%); 
+  height: auto;
+}
+.content h6 {
+  margin: 0 auto;
+  max-width: 400px;
+  font-size: var(--small);
+  font-weight: var(--light);
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-style: italic;
+  text-align: center;
 }
 
 /* By Section */
@@ -204,4 +234,8 @@ article {
   text-decoration: none;
   color: var(--grey);
   cursor: pointer;
+}
+
+[id="Cyrus Peñarroyo"] object {
+  border-color: var(--three-green-two) !important;
 }
