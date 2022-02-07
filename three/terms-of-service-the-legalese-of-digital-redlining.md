@@ -9,4 +9,8 @@ High-speed internet is an essential part of daily life, a reality made painfully
 
 Our digital and political systems are complexly intertwined, and the physical “stuff” of the internet—the placement of fiber-optic cables, servers, and routers—is ultimately governed by bureaucratic interests. When politicians emphasize geography and population density to describe network deficiencies, the government focuses on helping private companies expand their broadband infrastructure to unserved rural areas, places where people have little or no internet access. However, this also shifts focus away from historically excluded urban areas, disregarding the needs of underserved low-income residents who may have few affordable internet options at their disposal. While the Federal Communications Commission (FCC) aims to increase Americans’ access to broadband, this diagram reveals conflicts between governing bodies over who is more deserving of this technology, further exacerbating the rural–urban divide that characterizes the nation’s current political landscape.
 
-<iframe src="/assets/images/uploads/penarroyo.pdf" height="100%" width="100%" style="display: block; border: 8px solid var(--three-green-two);"></iframe>
+<object type="application/pdf"
+    data="/assets/images/uploads/penarroyo.pdf"
+    width="100%"
+    height="100%">
+</object>
