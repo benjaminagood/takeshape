@@ -98,7 +98,7 @@ article {
 }
 .featured img {
   margin: 0 auto;
-  width: clamp(60%, 100%, 100%); 
+  width: 100%; 
   height: auto;
 }
 .featured figcaption {
