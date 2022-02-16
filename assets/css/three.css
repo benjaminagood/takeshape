@@ -65,7 +65,8 @@ article {
   grid-template-areas: 
   ". a ."
   ". b ."
-  "c c c";
+  ". c ."
+  "d d d";
   position: relative;
   overflow-y: scroll;
   z-index: -1;
@@ -73,7 +74,10 @@ article {
 .article-header {
   grid-area: a;
   position: static;
+  margin: 0 auto;
   padding: 1rem 0;
+  width: 100%;
+  max-width: 800px;
 }
 .article-header h1 {
   font-size: var(--medium);
@@ -86,15 +90,12 @@ article {
   font-weight: var(--light);
   text-align: center;
 }
-.description {
-  margin-top: 2rem;
-  font-size: var(--small);
-  font-weight: var(--light);
-  text-align: center;
-}
 .featured {
   grid-area: b;
+  margin: 0 auto;
   padding-top: 2rem;
+  width: 100%;
+  max-width: 800px;
 }
 .featured img {
   margin: 0 auto;
@@ -110,9 +111,16 @@ article {
   font-style: italic;
   text-align: center;
 }
+.description {
+  grid-area: c;
+  margin-top: 2rem;
+  font-size: var(--small);
+  font-weight: var(--light);
+  text-align: center;
+}
 
 .content {
-  grid-area: c;
+  grid-area: d;
   padding: 8rem;
   /* padding: clamp(6rem, 8rem, 10rem);  */
 
@@ -154,42 +162,42 @@ article {
 /* By Section */
 .section-1 {
 }
-.section-2 .article-header {
+.section-2 .article-header, .section-2 .description {
   color: var(--three-green-two);
 }
 .section-2 hr {
   border-color: var(--three-green-two);
   background-color: var(--three-green-two);
 }
-.section-3 .article-header {
+.section-3 .article-header, .section-3 .description {
   color: var(--three-green-three);
 }
 .section-3 hr {
   border-color: var(--three-green-three);
   background-color: var(--three-green-three);
 }
-.section-4 .article-header {
+.section-4 .article-header, .section-4 .description {
   color: var(--three-green-four);
 }
 .section-4 hr {
   border-color: var(--three-green-four);
   background-color: var(--three-green-four);
 }
-.section-5 .article-header {
+.section-5 .article-header, .section-5 .description {
   color: var(--three-purple-one);
 }
 .section-5 hr {
   border-color: var(--three-purple-one);
   background-color: var(--three-purple-one);
 }
-.section-6 .article-header {
+.section-6 .article-header, .section-6 .description {
   color: var(--three-purple-two);
 }
 .section-6 hr {
   border-color: var(--three-purple-two);
   background-color: var(--three-purple-two);
 }
-.section-7 .article-header {
+.section-7 .article-header, .section-7 .description {
   color: var(--three-purple-three);
 }
 .section-7 hr {
@@ -290,10 +298,10 @@ article {
 }
 
 #CyrusPeñarroyo object {
-  border-color: var(--three-green-two) !important;
+  border-color: var(--three-green-two);
 }
 #CyrusPeñarroyo p:last-of-type {
-  width: 100%;
+  max-width: 100%;
 }
 
 #BenjaminGood strong {
