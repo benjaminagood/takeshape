@@ -302,6 +302,11 @@ article {
   font-weight: normal;
 }
 
+#IanErickson strong {
+  position: absolute;
+  left: 1rem;
+  font-weight: normal;
+}
 #IanErickson em {
   font-style: normal;
   color: var(--three-green-three);
