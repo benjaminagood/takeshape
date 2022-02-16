@@ -129,7 +129,7 @@ article {
   color: var(--three-blue-one);
 }
 .content a:hover {
-  text-decoration-color: var(--three-green-one);
+  /* text-decoration-color: var(--three-green-one); */
 }
 .content img {
   margin: 6rem auto 0;
@@ -202,86 +202,86 @@ article {
 
 
 /* By Article */
-[id="Issue Three"] {
+#IssueThree {
   color: var(--three-green-one);
 }
-[id="Issue Three"] strong {
+#IssueThree strong {
   color: var(--three-blue-one);
 }
-[id="Issue Three"] .content p::first-line {
+#IssueThree .content p::first-line {
   line-height: 0.9;
 }
-[id="Issue Three"] .content p:first-child::first-letter {
+#IssueThree .content p:first-child::first-letter {
   font-size: var(--big);
   vertical-align: sub;
 }
-[id="Issue Three"] .content p:nth-last-child(5) {
+#IssueThree .content p:nth-last-child(5) {
   margin-top: 3rem;
   padding-top: 0.5rem;
   border-top: 4px solid var(--three-purple-two);
   color: var(--three-purple-two);
 }
-[id="Issue Three"] .content p:nth-last-child(4) {
+#IssueThree .content p:nth-last-child(4) {
   padding-top: 0.5rem;
   border-top: 4px solid var(--three-green-three);
   color: var(--three-green-three);
 }
-[id="Issue Three"] .content p:nth-last-child(3) {
+#IssueThree .content p:nth-last-child(3) {
   padding-top: 0.5rem;
   border-top: 4px solid var(--three-purple-three);
   color: var(--three-purple-three);
 }
-[id="Issue Three"] .content p:nth-last-child(2) {
+#IssueThree .content p:nth-last-child(2) {
   padding-top: 0.5rem;
   border-top: 4px solid var(--three-purple-two);
   color: var(--three-purple-two);
 }
-[id="Issue Three"] .content p:nth-last-child(1) {
+#IssueThree .content p:nth-last-child(1) {
   padding-top: 0.5rem;
   border-top: 4px solid var(--three-green-two);
   color: var(--three-green-two);
 }
 
-[id="Contributors"] {
+#Contributors {
 
 }
-[id="Contributors"] .article-header h2 {
+#Contributors .article-header h2 {
   display: none;
 }
-[id="Contributors"] .content {
+#Contributors .content {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
 }
-[id="Contributors"] .content p {
+#Contributors .content p {
   padding-top: 0.5rem;
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
-[id="Contributors"] p:nth-of-type(2), [id="Contributors"] p:nth-of-type(21) {
+#Contributors p:nth-of-type(2), #Contributors p:nth-of-type(21) {
   border-top: 4px solid var(--black);
 }
-[id="Contributors"] p:nth-of-type(13), [id="Contributors"] p:nth-of-type(17) {
+#Contributors p:nth-of-type(13), #Contributors p:nth-of-type(17) {
   border-top: 4px solid var(--three-green-two);
 }
-[id="Contributors"] p:nth-of-type(8), [id="Contributors"] p:nth-of-type(9), [id="Contributors"] p:nth-of-type(22) {
+#Contributors p:nth-of-type(8), #Contributors p:nth-of-type(9), #Contributors p:nth-of-type(22) {
   border-top: 4px solid var(--three-green-three);
 }
-[id="Contributors"] p:nth-of-type(3), [id="Contributors"] p:nth-of-type(5) {
+#Contributors p:nth-of-type(3), #Contributors p:nth-of-type(5) {
   border-top: 4px solid var(--three-green-four);
 }
-[id="Contributors"] p:nth-of-type(1), [id="Contributors"] p:nth-of-type(4), [id="Contributors"] p:nth-of-type(15) {
+#Contributors p:nth-of-type(1), #Contributors p:nth-of-type(4), #Contributors p:nth-of-type(15) {
   border-top: 4px solid var(--three-purple-one);
 }
-[id="Contributors"] p:nth-of-type(6), [id="Contributors"] p:nth-of-type(11), [id="Contributors"] p:nth-of-type(12), [id="Contributors"] p:nth-of-type(19) {
+#Contributors p:nth-of-type(6), #Contributors p:nth-of-type(11), #Contributors p:nth-of-type(12), #Contributors p:nth-of-type(19) {
   border-top: 4px solid var(--three-purple-two);
 }
-[id="Contributors"] p:nth-of-type(7), [id="Contributors"] p:nth-of-type(14), [id="Contributors"] p:nth-of-type(18) {
+#Contributors p:nth-of-type(7), #Contributors p:nth-of-type(14), #Contributors p:nth-of-type(18) {
   border-top: 4px solid var(--three-purple-three);
 }
-[id="Contributors"] p:nth-of-type(10), [id="Contributors"] p:nth-of-type(16), [id="Contributors"] p:nth-of-type(20) {
+#Contributors p:nth-of-type(10), #Contributors p:nth-of-type(16), #Contributors p:nth-of-type(20) {
   border-top: 4px solid var(--three-blue-one);
 }
-[id="Contributors"] .content a {
+#Contributors .content a {
   display: block;
   padding-top: 0.5rem;
   text-decoration: none;
@@ -289,15 +289,38 @@ article {
   cursor: pointer;
 }
 
-[id="Cyrus Peñarroyo"] object {
+#CyrusPeñarroyo object {
   border-color: var(--three-green-two) !important;
 }
-[id="Cyrus Peñarroyo"] p:last-of-type {
+#CyrusPeñarroyo p:last-of-type {
   width: 100%;
 }
 
-[id="Benjamin Good"] strong {
+#BenjaminGood strong {
   position: absolute;
   left: 1rem;
   font-weight: normal;
+}
+
+#IanErickson em {
+  font-style: normal;
+  color: var(--three-green-three);
+  cursor: pointer;
+}
+#IanErickson span {
+  display: none;
+}
+#IanErickson .footnote {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 400px;
+  font-size: var(--very-small);
+  font-weight: var(--light);
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  /* font-style: italic; */
+  text-align: center;
+  color: var(--three-green-three);
+}
+#IanErickson .footnote em {
+  font-style: italic;
 }

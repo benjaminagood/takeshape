@@ -16,3 +16,7 @@ $( document ).ready(function() {
     $(this).css({"border-top-left-radius": one, "border-top-right-radius": two, "border-bottom-left-radius": three, "border-bottom-right-radius": four});
   });
 });
+
+$("#IanErickson em").click(function () {
+  $(this).next("span").toggleClass("footnote");
+});
