@@ -89,9 +89,10 @@ Novelty is somewhat important, because I like my designs to encourage curiosity.
   
 There is no such thing as complete, unique novelty. What’s novel is just combining two unlike things that haven’t been combined before. And so you as a creator, someone who’s doing novel things, you should feel okay to grab one of those components and use it for a different project as long as you’re combining it with something else, and that combination feels new but also functional for the task at hand.
 
+<figure>
 ![a small figure out of white clay holding a cell phone sits surrounded by a group of clay wolves, all in white](/assets/images/uploads/good2.jpg)
-
-_This is a miniature sculpture of someone taking a picture (with their phone) of a group of dogs. It was created by Ayami Konishi, a comic artist and member of "pe hu" in Osaka, Japan, who is also my friend. I was a resident artist at "pe hu" in Summer 2019, and it is one of my fondest memories of all time._
+<figcaption>This is a miniature sculpture of someone taking a picture (with their phone) of a group of dogs. It was created by Ayami Konishi, a comic artist and member of "pe hu" in Osaka, Japan, who is also my friend. I was a resident artist at "pe hu" in Summer 2019, and it is one of my fondest memories of all time.</figcaption>
+</figure>
 
 **B:**
 
@@ -101,9 +102,10 @@ Speaking of this idea of structural versus visual designs—do you often think o
 
 Well, to answer part of your question, I love discovering hidden folders on sites where I can browse all the assets. The processes that take place while you’re making a site, which result in things like a folder of assets, also tell a story about its creation. Even though it’s not a conscious story that you’re narrativizing, it’s one that happens through the process of making. Letting some things live as themselves, like a folder of files, I think is exciting. It really depends on who the audience is. To give one example, the Artists Space site has these different subdomains—images, texts, videos, and artists—and that’s what I meant by the “multiple entrances”; these are different ways to browse the Artists Space archive. One of my big inspirations was accidentally finding an assets folder on an old site and thinking, “Wow, why don’t we just put this front and center?” And I remember Jay, who’s the director of Artists Space, used the metaphor of, “This is us airing our dirty laundry.” _(Laughs)_ We’re just going to show all the images on the site here and, no matter if it’s a little logo of a sponsor or whether it’s an artwork, we’re just going to show it all. Oftentimes, you want to massage that, because one might think, “Oh, we don’t want the logo of the sponsor to be really big in comparison to an artwork.” But I think because we spent a while figuring out that this was an interesting artistic concept for the site, we all agreed that it was cool to air Artists Space’s dirty laundry.
 
+<figure>
 ![a small tinfoil horse sits atop a shiny silver box with a ripple texture on its surface](/assets/images/uploads/good3.jpg)
-
-_This is another miniature sculpture. This one is a horse made entirely out of a small piece of tin-foil. It was made by someone working at the Makawao History Museum in Maui, Hawaii. They said they sculpted these small tin horses to pass the time, and I could have one for free. I picked this one and have carefully preserved it for years. It's sitting atop a silver box which has an acorn from Seoul that I found on a separate trip._
+<figcaption>This is another miniature sculpture. This one is a horse made entirely out of a small piece of tin-foil. It was made by someone working at the Makawao History Museum in Maui, Hawaii. They said they sculpted these small tin horses to pass the time, and I could have one for free. I picked this one and have carefully preserved it for years. It's sitting atop a silver box which has an acorn from Seoul that I found on a separate trip.</figcaption>
+</figure>
 
 **B:**
 
