@@ -8,9 +8,9 @@ title: Contributors
 author: Contributors
 description: ""
 ---
-Julianne Aguilar is an artist, essayist, and speculative fiction writer. Her work is inspired by the internet, video games, and semi-competent portrayals of such in pop culture. She lives and works in New Mexico. [juliannes.website](http://juliannes.website)
+Julianne Aguilar is an artist, essayist, and speculative fiction writer. Her work is inspired by the internet, video games, and semi-competent portrayals of such in pop culture. She lives and works in New Mexico. [juliannes.website](http://juliannes.website/)
 
-Shireen Alia Ahmed is a poet, illustrator, and video artist from Toronto. She is currently based in Brooklyn, NY.[shireen.guru](https://shireen.guru)
+Shireen Alia Ahmed is a poet, illustrator, and video artist from Toronto. She is currently based in Brooklyn, NY.[shireen.guru](http://www.shireen.guru/)
 
 Sanoja Bhaumik is a writer and editor based in Brooklyn, NY. She is interested in visual culture, technology, and politics.
 
