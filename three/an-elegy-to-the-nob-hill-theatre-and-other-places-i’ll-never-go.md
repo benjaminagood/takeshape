@@ -43,8 +43,7 @@ I started asking friends of mine where I could find 1970s gay porn films. One fr
 >the blueprint to a life  
   
 >It is a presence  
->it has a history&nbsp;&nbsp;&nbsp;a 
->form  
+>it has a history&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a form  
   
 >Do not confuse it  
 >with any kind of absence
