@@ -149,7 +149,13 @@ article {
   font-size: var(--very-small);
   font-weight: var(--light);
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-style: italic;
+  /* font-style: italic; */
+  text-align: center;
+}
+.content h2 {
+  margin: 6rem auto 2rem;
+  font-size: var(--medium-small);
+  font-weight: var(--light);
   text-align: center;
 }
 .content h6 {
