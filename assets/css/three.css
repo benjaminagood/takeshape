@@ -59,7 +59,7 @@
 
 
 
-/* ARTICLES */
+/* Articles */
 article {
   display: grid;
   grid-template-areas: 
@@ -121,13 +121,10 @@ article {
 
 .content {
   grid-area: d;
-  padding: 8rem;
-  /* padding: clamp(6rem, 8rem, 10rem);  */
-
+  padding: 8rem 2rem;
 }
 .content p {
   margin: 0 auto 1.5rem;
-  /* width: clamp(500px, 600px, 100%); */
   width: 100%;
   max-width: 600px;
   font-size: var(--small);
