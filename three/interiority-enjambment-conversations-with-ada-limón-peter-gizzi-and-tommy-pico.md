@@ -27,7 +27,7 @@ The shift is both concrete and philosophical. Added to the fear and grief caused
 
 In poetry when a phrase begins on one line and runs onto the next without terminal punctuation, it’s called enjambment. The magic of the enjambed line is that as the beginning of the phrase pulls the reader forward, they unconsciously supply a logical conclusion. But the conclusion isn’t always logical—it’s associative, strange, and, when reached, often distorts the entire meaning of the phrase, or conversely, completes it. Consider the first stanza of “The Book,” by Rae Armantrout:
 
-The poet uses enjambment  
+>The poet uses enjambment  
 so that the reader  
 has the constant  
 small pleasure  
