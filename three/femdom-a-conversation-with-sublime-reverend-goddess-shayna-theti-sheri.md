@@ -49,9 +49,7 @@ I had a group of about twenty people with different talents help me create the O
   
 On top of that all, we recreated the castle itself. The castle included the queen’s bedroom, the throne room (including a replicated version of Queen Patricia the First’s throne from the physical OWK), a dining area, the Lady Senate meeting area, the courthouse where slaves were sentenced, the pillory where they were publicly punished, and an upstairs ballroom. Next to the castle was a guesthouse and longhouse, which had a kitchen, a pool, and _Club Wanda_. <span>Club Wanda was the nightclub embedded in the physical OWK complex.</span> Behind the castle, there was a clinic for medical play and an amphitheater for slave auctions and entertainment. Behind that was a big path that went down into the valley, where there was a riding stable, a dog kennel, a marketplace, and finally a dock. You could take a boat around the whole _simulated island_. <span>Thomas More’s _Utopia_ (1516) was also an island.</span>
 
-![multi-tiered black-throne with gold accented rings and a red seat cushion.](/assets/images/uploads/erickson-2.png)
-
-A replication of Queen Patricia’s throne from the physical Other World Kingdom.
+![multi-tiered black-throne with gold accented rings and a red seat cushion.](/assets/images/uploads/erickson-2.png)<figcaption>A replication of Queen Patricia’s throne from the physical Other World Kingdom.</figcaption>
 
 **I:**
 
@@ -83,9 +81,7 @@ At the OWK in SL, how did members use their avatars?
 
 Second Life is a very versatile platform, and it caters to many different aspects of life. Avatars can engage in many levels of relationships including sexual activity. You can even go shopping in its marketplace for sexual parts. Male avatars are like Ken dolls, and you can shop for penises. When you log into Second Life, there is a plethora of avatar enhancements, including skin, hair, nails, heads, bodies, makeup, clothing, and mesh body parts. Residents of Second Life even have the ability to customize themselves to look like their real-life selves or to make something completely different to express themselves.
 
-![A videogame still of a woman in red standing over a body submerged in a stream.](/assets/images/uploads/erickson-3.png)
-
-Water play in the sewer system.
+![A videogame still of a woman in red standing over a body submerged in a stream.](/assets/images/uploads/erickson-3.png)<figcaption>Water play in the sewer system.</figcaption>
 
 **I:**
 
@@ -111,9 +107,7 @@ The voice recordings bring up a question of gender more generally. Did the defin
 
 There was one trans woman in the Lady Senate, prior to my taking over, who was one of the Doms. She ended up leaving after there was some conflict with other (cis) women on the council who didn’t like her presence, though I supported her. She was never voice verified. In the end, prior to my taking over of the OWK in SL, we adopted the same values as the real-world OWK and only accepted \[cis women as\] Dominants. There were a number of other players who never voice verified either, but that was fine, and the male slaves knew that before interacting with them. A hierarchy of gender was the founding motivation for the OWK in SL. Though we allowed other races and species, the female-gendered role players were always above the males. This scenario kept the environment in a state where males were inherently desiring to worship and uplift women.
 
-![a woman in reflective leather sits cross-legged in a chair, her foot on the back of a man in assless chaps lying face-down on the ground.](/assets/images/uploads/erickson-4.png)
-
-The prison right beneath the castle. The spiral stair that was an addition from the layout of the actual Other World Kingdom that allowed more efficient access between levels in the game.
+![a woman in reflective leather sits cross-legged in a chair, her foot on the back of a man in assless chaps lying face-down on the ground.](/assets/images/uploads/erickson-4.png)<figcaption>The prison right beneath the castle. The spiral stair that was an addition from the layout of the actual Other World Kingdom that allowed more efficient access between levels in the game.</figcaption>
 
 **I:**
 
@@ -131,9 +125,7 @@ As a real-life Dominant, what was it like dominating a male slave through Second
 
 I was in the lifestyle before Second Life, and there was a lot of flow between online and IRL interactions. When I first entered SL, a lot of people flocked to me, and I had a group of twenty-four people before I entered _Second Life_.<span> At one point up to a hundred men per day would contact Shayna to join her stable.</span> Some of the women in Second Life started to freak out and call me names. Two of the names stuck in my head, one of them being “the vortex.” The other name I was referred to as was “the Borg.” Well, I kind of believe that when people throw stones at you, you use them as building blocks to construct your empire. So, my Second Life house in the sky resides in a Borg cube. As far as dominating males through Second Life or online, one of my most prominent adventures was with a young man from San Diego who I had met online in 2003. I micromanaged his life to the extent of putting him in college, telling him how to spend his money, and telling him when to sleep and eat. I pretty much dominated this guy’s life, and we were together daily for eight years. After he got a BS in college, he ended up moving in with us and going on to get a doctorate. To me this is real domination, not the porn you see on the net. Though we may have had the kink in our relationship through the web and in real life, it's no _Fifty Shades of Grey_. It was a real lifestyle relationship where a Dominant Female controlled a male slave. As far as dominating males online through Second Life, this was the kind of domination that normally doesn’t happen. Most of the time you had players and kinksters who were just there to get their rocks off.
 
-![a woman holds a whip in the town square. she is standing behind a man wearing assless chaps who is strapped up to a wooden post.](/assets/images/uploads/erickson-5.png)
-
-The public pillory right outside the castle.
+![a woman holds a whip in the town square. she is standing behind a man wearing assless chaps who is strapped up to a wooden post.](/assets/images/uploads/erickson-5.png)<figcaption>The public pillory right outside the castle.</figcaption>
 
 **I:**
 
@@ -151,9 +143,7 @@ Were there specific hurdles you had to overcome in order to justify your communi
 
 You can basically do whatever you want, providing you stay within the guidelines of Second Life. It was not as much the institution of SL that I have had issues with but the changing culture. With FemDom you are doing it because you want to, because it has an ideology you support, not because you want money for it necessarily. You also have to think about it on a global level, in today’s world you have a lot of catfish out there scamming people out of money. This fetish has its fill of catfish just like any other genre on the internet.
 
-![a large red flag reading 'OWK,' and below in smaller type: 'Other World Kingdom.'](/assets/images/uploads/erickson-6.jpg)
-
-The Other World Kingdom longhouse from the exterior including the Other World Kingdom in Second Life flag.
+![a large red flag reading 'OWK,' and below in smaller type: 'Other World Kingdom.'](/assets/images/uploads/erickson-6.jpg)<figcaption>The Other World Kingdom longhouse from the exterior including the Other World Kingdom in Second Life flag.</figcaption>
 
 **I:**
 
