@@ -334,9 +334,3 @@ article {
   text-align: center;
   color: var(--three-green-three);
 }
-#IanErickson h6 {
-  display: inline;
-  color: var(--black);
-  font-weight: normal;
-  font-size: var(--small);
-}
