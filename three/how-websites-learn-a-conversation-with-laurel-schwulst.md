@@ -89,10 +89,7 @@ Novelty is somewhat important, because I like my designs to encourage curiosity.
   
 There is no such thing as complete, unique novelty. What’s novel is just combining two unlike things that haven’t been combined before. And so you as a creator, someone who’s doing novel things, you should feel okay to grab one of those components and use it for a different project as long as you’re combining it with something else, and that combination feels new but also functional for the task at hand.
 
-<figure>
-![a small figure out of white clay holding a cell phone sits surrounded by a group of clay wolves, all in white](/assets/images/uploads/good2.jpg)
-<figcaption>This is a miniature sculpture of someone taking a picture (with their phone) of a group of dogs. It was created by Ayami Konishi, a comic artist and member of "pe hu" in Osaka, Japan, who is also my friend. I was a resident artist at "pe hu" in Summer 2019, and it is one of my fondest memories of all time.</figcaption>
-</figure>
+![a small figure out of white clay holding a cell phone sits surrounded by a group of clay wolves, all in white](/assets/images/uploads/good2.jpg)<figcaption>This is a miniature sculpture of someone taking a picture (with their phone) of a group of dogs. It was created by Ayami Konishi, a comic artist and member of "pe hu" in Osaka, Japan, who is also my friend. I was a resident artist at "pe hu" in Summer 2019, and it is one of my fondest memories of all time.</figcaption>
 
 **B:**
 
