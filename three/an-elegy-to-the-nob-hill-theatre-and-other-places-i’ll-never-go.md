@@ -5,7 +5,7 @@ order: 2
 title: An Elegy to the Nob Hill Theatre (And Other Places I’ll Never Go)
 author: Sam Moore
 ---
-#### I
+## I
 
 The Nob Hill Theatre—a San Francisco institution that once showed gay porn, and that later became a porn-library-cum-strip-club—closed down in August 2018. As it was closing, queer publication contributors up and down the United States lamented its passing, calling it a “living and vital space” (Ryan Kost) and “another nail in the coffin of gay San Francisco” (Shelly Steward). I never went there when it was open, and now I’ll never get to go there myself. However, the Nob Hill Theatre is kept alive on screen, allowing the moviegoer to visit it vicariously and to understand where it was and why it mattered.
 
@@ -27,7 +27,7 @@ _Boys in the Sand_, _Take One_, and _L.A. Plays Itself_ share a sexual imaginati
 
 ![Two men, one slightly taller kiss each other over the course of three frames.](/assets/images/uploads/moore-4-figure4.jpg)<figcaption>Screenshots of the Wakefield Poole film _Moving!_ on Tumblr.</figcaption>
 
-#### II
+## II
 
 For potential thesis research, a (straight) friend of mine once went to a screening of _L.A. Plays Itself_ in Aarhus. He said that the experience of watching it in a theater was strange, as he was always aware that people around him were getting off, even during the film’s more violent moments. He said that watching it in a theater with others changed how the film worked, and the extent to which it felt like porn. Listening to his story, I was struck by the fascination that a straight person could have for gay porn; he said that the film was about everything that interested him: critical geography, power, violence, sex, and class.
 
@@ -56,7 +56,7 @@ I didn’t find _L.A. Plays Itself_ to be a pleasurable thing to watch; it wasn�
 
 If you search for, say, _Boys in the Sand_ on almost any streaming or download site—barring the ones that specifically archive queer work—you will find nothing to differentiate it from the countless other videos that their search engines offer up. Maybe they’ll sometimes mention the year in brackets, or tag it as “vintage,” but the film itself, and everything that it stood for and accomplished, gets lost in the white noise of the internet. As scholar Linda Williams writes, in such contexts, “the text’s temporal context is even less apparent,” and the “sociological or historical impact recedes into the background.” _L.A. Plays Itself_ gets called a “_~ hot classic ~_” on one website, even though for the majority of its runtime, it feels deliberately unerotic.
 
-#### III
+## III
 
 The changing porn landscape feels like a case of _the more things change, the more they stay the same_. One of the most common and popular ways to find porn online was the Tumblr porn blog—now deceased, as much as anything can be online. The way it presented porn echoes one of the earliest forms of erotic cinema. Where Tumblr has GIFs, early porn films had loops: short films that played, like the title suggests, on a loop, generally in coin-operated peep show booths. There was no emphasis on story or specificity, just an endless repetition of erotic scenes in a short timeframe. The GIF is the digital resurrection of the loop, which takes a fragment of a fragment and repeats it endlessly.
 
@@ -72,7 +72,7 @@ For porn, this public–private transition is about space, and what the spaces t
 
 In Adrienne Rich’s description, “Re-vision—the act of looking back, of seeing with fresh eyes, of entering an old text from a new critical direction—is for us more than a chapter in cultural history: it is an act of survival.” The process of researching and writing this essay is, in a way, an act of re-vision. I look back through decades of queer cinema and porn to see old texts in a new way. Instead of purely thinking about their representative or erotic functions, I think of how they exist on the new world of the internet, where everything is available, everything is lost, and everything can be (re)-discovered.
 
-#### IV
+## IV
 
 Samuel R. Delany writes, “The nostalgic approach sees all these silent red and green and purple window gates, these dead and wordless movie marquees, as the end of an era.” I found out that the Nob Hill had closed down while I was researching this essay, creating the strange feeling of saying goodbye to a place that I never got to go to. One of the first shots in _Take One_ is the marquee of the Nob Hill, reading, in block caps:
 
