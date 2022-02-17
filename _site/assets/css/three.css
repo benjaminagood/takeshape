@@ -138,8 +138,17 @@ article {
 }
 .content img {
   margin: 6rem auto 0;
-  width: clamp(60%, 100%, 100%); 
+  width: 100%; 
   height: auto;
+}
+.content figcaption {
+  margin: 0 auto 6rem;
+  max-width: 400px;
+  font-size: var(--very-small);
+  font-weight: var(--light);
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-style: italic;
+  text-align: center;
 }
 .content h6 {
   margin: 0 auto 6rem;
