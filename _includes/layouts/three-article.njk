@@ -3,6 +3,7 @@
 <link rel="stylesheet" href="../../assets/css/three.css">
 </head>
 <body class="three-article">
+    {% include "back.njk" %}
     {% include "header.njk" %}
     <article id="{{ author | replace(" ", "") }}" class="section-{{ section }}">
     <header class="article-header"><h1>{{ title }}</h1><h2>{{ author }}</h2></header>

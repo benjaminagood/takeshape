@@ -82,44 +82,50 @@ header {
   top: 0;
   left: 0;
 }
-#header-bttn, #close-header-bttn, #home-bttn {
+#header-bttn, #close-header-bttn, #back-bttn {
   font-size: var(--medium-small);
   cursor: pointer;
-  -webkit-transition: background-color 0.25s ease;
-  -moz-transition: background-color 0.25s ease;
-  -o-transition: background-color 0.25s ease;
-  transition: background-color 0.25s ease;
+  -webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  transition: all 0.25s ease;
   -webkit-touch-callout: none; /* iOS Safari */
   -webkit-user-select: none; /* Safari */
   -moz-user-select: none; /* Old versions of Firefox */
   -ms-user-select: none; /* Internet Explorer/Edge */
   user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
 }
-#header-bttn {
+#header-bttn, #back-bttn {
   position: absolute;
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
   margin: 1rem;
   padding: 0.75rem;
   width: 3.5rem;
   height: 3.5rem;
-  /* border-radius: 25%; */
   border-radius: 50%;
   background-color: var(--white);
   color: var(--grey);
-  
 }
 #header-bttn:hover {
-  /* border-radius: 50%; */
   background-color: var(--grey);
   color: var(--white);
 }
+#back-bttn {
+  display: flex;
+  color: transparent;
+  background: radial-gradient(var(--white), var(--grey));
+}
+#back-bttn:hover {
+  background: radial-gradient(var(--grey), var(--white));
+}
+
 #header aside {
   display: flex;
   flex-flow: column;
 }
-#close-header-bttn, #home-bttn {
+#close-header-bttn {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -131,7 +137,7 @@ header {
   text-decoration: none;
   color: var(--white);  
 }
-#close-header-bttn:hover, #home-bttn:hover {
+#close-header-bttn:hover {
   /* border-radius: 50%; */
   background-color: var(--white);
   color: var(--grey);
@@ -179,6 +185,9 @@ header {
 
 
 /* index */
+.base #header-bttn {
+  display: flex;
+}
 #home {
   padding: 0 1rem;
 }
@@ -191,7 +200,6 @@ header {
   align-content: center;
   /* grid-template-columns: 331px 371px 493px 493px; */
   grid-template-columns: 331fr 371fr 493fr 493fr;
-  /* grid-template-columns: 1fr 1fr 1fr 1fr; */
   grid-template-rows: 1fr;
 }
 #issue-bttns a {

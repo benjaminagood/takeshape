@@ -1,0 +1,8 @@
+{% include "head.njk" %}
+<link rel="stylesheet" href="../../assets/css/style.css">
+</head>
+<body class="pdf">
+{% include "back.njk" %}
+{% include "header.njk" %}
+{{ content | safe }}
+{% include "footer.njk" %}
