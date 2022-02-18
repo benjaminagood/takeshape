@@ -14,8 +14,10 @@ description: Best viewed on a larger screen.
 
 *Please note the application uses your web camera.*
 
-![mac download](/assets/images/uploads/applelogo.svg) 
-![windows download](/assets/images/uploads/windowslogo.svg)
+[<img src="/assets/images/uploads/applelogo.svg">](external/rodenhouse-Mac.zip)
+
+[<img src="/assets/images/uploads/windowslogo.svg">](external/rodenhouse-Windows.zip)
+
 
 
 
