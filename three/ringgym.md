@@ -12,6 +12,7 @@ description: Best viewed on a larger screen.
 
 <p>Under the guise of safety and security, smart doorbells now collect and share motion-triggered activities with the public and law enforcement. Extending the front porch into public space, smart doorbells have created an active broadcasting stage where human bodies bend, drop, place, hide, wait, run, and generate evidence on command by those who can afford to remain inside. Appropriating the "home workout," <b class="sans">Ring</b><b class="bold">GYM</b>  is a parody in app form, but it is also an app that you can <b class="bold">actually</b> work out to. Launch <b class="sans">Ring</b><b class="bold">GYM</b>, navigate the <b class="stretch">neighborhood</b> <b class="bold">NETWORK</b> workouts, and follow along with a virtual <b class="sans">Ring</b><b class="bold">GYM</b> <b class="stretch">BODYBUILDER</b> using your webcam to experience these warped visions of the “outside” — scenes of conjecture, capitalism, and crime. As a form of simulation and imitation, <b class="sans">Ring</b><b class="bold">GYM</b>  creates virtual exercises from real videos collected by smart doorbells to elucidate the power structures, privacies, and labors from outside the home and bring them inwards.</p>
 
-_Please note the application uses your web camera._
+*Please note the application uses your web camera.*
 
+mac
 [mac](content/issuethree/rodenhouse/RingGym-TakeShape-Mac.zip) [windows](content/issuethree/rodenhouse/RingGym_TakeShape_Windows.zip)
