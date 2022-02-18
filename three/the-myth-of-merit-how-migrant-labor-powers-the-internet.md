@@ -16,7 +16,7 @@ The United States was no stranger to the concept of outsourcing, a business mode
 
 By the 1990s _outsourcing_ was a mainstream buzzword. Today the trope of a call-center employee with an Indian accent is commonplace in pop culture. But how did India become the default destination for the IT outsourcing industry? The conditions were created in part by economic and cultural colonialism, paired with India’s access to English-language education and science studies. India had already invested in science and engineering as part of its nation-building project. For example, the first Indian Institute of Technology, modeled on MIT, was founded in 1950. By the 90s India was experiencing a tech boom, and the country had a large workforce of bilingual, specialized employees. Finally, after decades of being a closed economy, India liberalized its economic policies in 1991, making it a lucrative destination for foreign investment.
 
-![circular orb drawn in black with many interior bubbles](/assets/images/uploads/indranil3.svg)
+![circular orb drawn in black with many interior bubbles](/assets/images/uploads/indranil3.svg)<figcaption></figcaption>
 
 Over the past three decades, cities like Bangalore and Gurgaon, with clusters of outsourcing companies, became known as tech hubs. The industry has been a major contributor to India’s economy—one journalist [characterized](https://www.motherjones.com/politics/2011/07/indian-call-center-americanization/) the millions of calls made and received by Indian call centers as “one of the largest intercultural exchanges in history.” A less optimistic 2001 study, however, [referred to call centers](https://search.proquest.com/docview/203549187) and other outsourced services as “digital sweatshops.” The provocative comparison isn’t without merit, as employees have little to no recourse against harsh working conditions. According to the study, the average wage for Indian software engineers at the time was between $4,000 and $23,000 per year, a much lower salary than what their US counterparts typically received. In his book about call-center workers, sociologist Shehzad Nadeem describes a dystopian setting that involves inhumane hours, accent neutralization training, and rampant surveillance of employees.
 
@@ -24,7 +24,7 @@ The outsourcing evangelist Peter Drucker popularized the phrase “sell the mail
 
 In the 1990s the IT industry was growing fast in the United States. The impending problem of the Y2K bug created an increasing demand for IT labor. US tech companies lobbied to increase the number of H-1B recipients, citing the need for more skilled workers. (Many workers, on the other hand, argued that the problem wasn’t a lack of skilled labor, but the fact that companies wanted to avoid paying fairly for it.) As US companies became more dependent on external labor, offshore outsourcing companies popped up. They worked with US corporations to find foreign workers and assist them in securing temporary visas to work in the United States. These relationships soon incentivized outsourcing companies to establish onshore operations in the United States.
 
-![interior of office with hexagonal cubicles.](/assets/images/uploads/indranil4.svg)
+![interior of office with hexagonal cubicles.](/assets/images/uploads/indranil4.svg)<figcaption></figcaption>
 
 The H-1B visa was introduced in 1990 to help US companies address what they claimed were labor shortages in rapidly growing industries that required specialized skills. In the following years, the IT outsourcing industry became the biggest beneficiary of the program.
 
@@ -34,7 +34,7 @@ The H-1B has its origins in the H1 visa, which was introduced as part of the Imm
 
 The Immigration and Nationality Act of 1965 went a step further, abolishing the National Origins Formula. When signing the act into law, President Lyndon B. Johnson said, “This system violates the basic principle of American democracy—the principle that values and rewards each man on the basis of his merit as a man. It has been un-American in the highest sense, because it has been untrue to the faith that brought thousands to these shores even before we were a country.”
 
-![two lines of people, each line moving into different doorways.](_site/assets/images/uploads/indranil5.svg)
+![two lines of people, each line moving into different doorways.](/assets/images/uploads/indranil5.svg)<figcaption></figcaption>
 
 This marked a radical shift in US immigration policy, which until then had largely focused on restricting the immigration and naturalization of nonwhite people. US policy now tacitly placed an emphasis on the “good immigrant,” a mythical figure who is only as valuable as their technical skills and employability. On paper immigrants may be free to chase the American Dream, but in reality they are hindered by a legalized system of exploitation.
 
@@ -46,7 +46,8 @@ Applying for an H-1B visa is a complicated and expensive process. Small companie
 
 The H-1B is purportedly a mechanism to bring “the best and the brightest” to the United States, not to create an underclass of lower-paid tech workers with fewer labor protections. A direct employer like Microsoft pays some of their H-1B employees wages that can be reasonably compared to similarly employed US citizens. By contrast, an outsourcing company like Tata Consultancy Services pays their H-1B employees much less than similarly employed US citizens. Critics have been raising the alarm about this phenomenon for years; they argue that the program allows companies to legally underpay H-1B workers. In fact, in an analysis published earlier this year, researchers Daniel Costa and Ron Hira [found](https://www.epi.org/publication/h-1b-visas-and-prevailing-wage-levels/) that 60 percent of H-1B workers are paid below median wage for their jobs.
 
-![monster with eleven arms with the body of a downwards triangle](_site/assets/images/uploads/indranil6.svg)
+![monster with eleven arms with the body of a downwards triangle](/assets/images/uploads/indranil6.svg)
+<figcaption></figcaption>
 
 Even if a company directly employs “high-skilled” H-1B workers at a fair wage, that doesn’t stop them from outsourcing “low-skilled” parts of their business processes—and which parts fall into which category is constantly being redefined by businesses. In 2010 Infosys received a three-year contract for all of Microsoft’s internal IT help desk operations. After facing concerns, Microsoft emphasized that this wouldn’t threaten the jobs of its existing employees. In a more revealing statement, then–Infosys Vice President Anand Natraj said, “We will get the first opportunities to build competencies in newer Microsoft technologies.” Whether tech giants admit it or not, their operations don’t just rely on the highest-paid programming employees. They also contract out work to the lower-paid H1-B employees of outsourcing companies. This is to say nothing of the various other more marginal workers that tech companies employ, from contingent delivery gig workers to operational staff like cooks and janitors, none of whom are on H-1B visas. It’s ironic that the technology industry, which is always predicting the disappearance of jobs, is so heavily dependent on physical labor.
 
@@ -64,7 +65,7 @@ This is not a story about bureaucracy, nor about the impenetrable complexity of 
 
 Extreme cases of H-1B abuse occur at so-called “body shops,” which act as brokers, supplying short-term foreign labor to companies primarily for IT-related services. Like outsourcing firms, but even more profit driven, body shops subject their workers to harsh abuse, practically holding them in servitude. They withhold millions of dollars in wages and file lawsuits against employees who quit. It’s worth pointing out that the line between a legitimate outsourcing operation and a body shop can be blurry. In one of the most perverse manifestations of late capitalism, some body-shop owners are themselves Indian, and seek out vulnerable Indian H-1B workers to exploit on US soil.
 
-![flowy lines in black, curling upwards to the upper right corner](_site/assets/images/uploads/indranil7.svg)
+![flowy lines in black, curling upwards to the upper right corner](/assets/images/uploads/indranil7.svg)<figcaption></figcaption>
 
 The patterns of abuse are remarkably similar to those experienced by H-2A visa holders, temporary agricultural workers in the United States. A recent NBC investigation [uncovered](https://www.nbcnews.com/specials/h2a-visa-program-for-farmworkers-surging-under-trump-and-labor-violations/) an increase in H-2A abuse; workers, most of whom are Mexican, endured unlivable housing conditions and were not paid. Once again, those worst affected were recruited by labor brokers. Significantly, when Trump announced his visa restrictions because of COVID-19, H-2A workers were exempt because they were deemed essential by the agricultural lobby.
 
