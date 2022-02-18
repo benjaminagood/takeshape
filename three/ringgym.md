@@ -14,5 +14,6 @@ description: Best viewed on a larger screen.
 
 *Please note the application uses your web camera.*
 
-mac
-[mac](content/issuethree/rodenhouse/RingGym-TakeShape-Mac.zip) [windows](content/issuethree/rodenhouse/RingGym_TakeShape_Windows.zip)
+
+![a](/assets/images/uploads/applelogo.svg) 
+![b](/assets/images/uploads/windowslogo.svg)
