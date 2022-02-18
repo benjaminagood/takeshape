@@ -14,6 +14,8 @@ description: Best viewed on a larger screen.
 
 *Please note the application uses your web camera.*
 
+![mac download](/assets/images/uploads/applelogo.svg) 
+![windows download](/assets/images/uploads/windowslogo.svg)
 
-![a](/assets/images/uploads/applelogo.svg) 
-![b](/assets/images/uploads/windowslogo.svg)
+
+
