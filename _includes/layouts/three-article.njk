@@ -1,0 +1,20 @@
+{% include "head.njk" %}
+<link rel="stylesheet" href="../../assets/css/style.css">
+<link rel="stylesheet" href="../../assets/css/three.css">
+</head>
+<body class="three-article">
+    {% include "back.njk" %}
+    {% include "header.njk" %}
+    <article id="{{ author | replace(" ", "") }}" class="section-{{ section }}">
+    <header class="article-header"><h1>{{ title }}</h1><h2>{{ author }}</h2></header>
+    {% if featuredImage | length %}<figure class="featured">
+    <img src="{{ featuredImage | url }}" alt="{% if featuredAltText | length %}{{ featuredAltText }}{% endif %}">
+    <figcaption>{% if featuredFigCaption | length %}{{ featuredFigCaption }}{% endif %}</figcaption>
+    </figure>{% endif %}
+    {% if description | length %}<h3 class="description">{{ description }}</h3>{% endif %}
+
+    <section class="content">
+    {{ content | safe }}
+    </section>
+    </article>
+{% include "footer.njk" %}

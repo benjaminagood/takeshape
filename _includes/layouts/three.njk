@@ -1,0 +1,70 @@
+{% include "head.njk" %}
+<link rel="stylesheet" href="../../assets/css/style.css">
+<link rel="stylesheet" href="../../assets/css/three.css">
+</head>
+<body class="three">
+{% include "back.njk" %}
+{% include "header.njk" %}
+<section id="section-one">
+    <h1>NO. 3, CYBERSPACE</h1>
+    <ul>
+        {%- for articles in collections.three | reverse -%}
+        {% if articles.data.section == 1 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2></a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+    
+<section id="section-two">
+    <h1>PUBLIC DOMAIN</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 2 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section id="section-three">
+    <h1>PEER-TO-PEER</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 3 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section id="section-four">
+    <h1>INCOGNITO MODE</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 4 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section id="section-five">
+    <h1>CUSTOM AVATAR</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 5 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section id="section-six">
+    <h1>DIGITAL DEBRIS</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 6 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+<section id="section-seven">
+    <h1>SERVICES RENDERED</h1>
+    <ul>
+        {%- for articles in collections.three -%}
+        {% if articles.data.section == 7 %}<li><a href="{{ articles.url | url }}"><h2>{{ articles.data.title }}</h2><h3>{{ articles.data.author }}</h3></a></li>{% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+{% include "footer.njk" %}
