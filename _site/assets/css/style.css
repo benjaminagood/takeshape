@@ -160,9 +160,12 @@ header {
   background-color: var(--grey);
   z-index: 9999;
 }
+<<<<<<< HEAD
 #header * {
   color: var(--white);
 }
+=======
+>>>>>>> d192b046c4ae8a4a7c5cea09df7a8a9fc9424bf9
 
 #header span {
   width: 100%;
